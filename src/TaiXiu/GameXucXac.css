@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'fontGame';
+    src: url(./font/Pony.ttf);
+}
+
+.game{
+    background-image: url('./assets/bgGame.png');
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    font-family: fontGame;
+}
+
+.title-game{
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.btnGame{
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+    background-color: #526cee;
+    border: 1px solid #3e5beb;
+    color: #ddd;
+    cursor: pointer;
+}
