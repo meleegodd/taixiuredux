@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/meleegodd/taixiuredux/static/css/main.9d4be28e.css",
-    "main.js": "/meleegodd/taixiuredux/static/js/main.60632c77.js",
-    "static/js/787.008ebcd3.chunk.js": "/meleegodd/taixiuredux/static/js/787.008ebcd3.chunk.js",
-    "static/media/Pony.ttf": "/meleegodd/taixiuredux/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
-    "static/media/bgGame.png": "/meleegodd/taixiuredux/static/media/bgGame.e49605597dae0136a330.png",
-    "index.html": "/meleegodd/taixiuredux/index.html",
-    "main.9d4be28e.css.map": "/meleegodd/taixiuredux/static/css/main.9d4be28e.css.map",
-    "main.60632c77.js.map": "/meleegodd/taixiuredux/static/js/main.60632c77.js.map",
-    "787.008ebcd3.chunk.js.map": "/meleegodd/taixiuredux/static/js/787.008ebcd3.chunk.js.map"
+    "main.css": "/taixiuredux/static/css/main.b9e23018.css",
+    "main.js": "/taixiuredux/static/js/main.9971b534.js",
+    "static/js/787.008ebcd3.chunk.js": "/taixiuredux/static/js/787.008ebcd3.chunk.js",
+    "static/media/Pony.ttf": "/taixiuredux/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "static/media/bgGame.png": "/taixiuredux/static/media/bgGame.e49605597dae0136a330.png",
+    "index.html": "/taixiuredux/index.html",
+    "main.b9e23018.css.map": "/taixiuredux/static/css/main.b9e23018.css.map",
+    "main.9971b534.js.map": "/taixiuredux/static/js/main.9971b534.js.map",
+    "787.008ebcd3.chunk.js.map": "/taixiuredux/static/js/787.008ebcd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4be28e.css",
-    "static/js/main.60632c77.js"
+    "static/css/main.b9e23018.css",
+    "static/js/main.9971b534.js"
   ]
 }
